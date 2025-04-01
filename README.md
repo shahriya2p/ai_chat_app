@@ -3,6 +3,9 @@
 
 This project simulates a real-time messaging panel integrated with an AI suggestion system, similar to ChatGPT. It features a React frontend with a mock backend, and aims to test your ability to build real-time messaging functionality, enhance UX, and integrate AI-based suggestions.
 
+![image](https://github.com/user-attachments/assets/697e7ab6-670a-4ab6-b41b-31d8b2b863d3)
+
+
 ## 🧪 Features & Tasks
 
 ### Frontend (React)
@@ -41,7 +44,7 @@ Follow the steps below to set up the project locally.
 - Node.js (v14 or higher)
 - npm or yarn for managing dependencies
 
-### Setup
+### Setup (Please follow all steps in mentioned order)
 
 1. **Clone the repository:**
 
